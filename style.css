@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url('./ảnh/background-nen-trang.jpg');
+}
+.container{
+    background-image: url('./ảnh/background-la-gi-anh-background-dep-5.jpg');
+    display: flex;
+    width: 75%;
+    justify-content: space-between;
+    margin: 0 auto  ;
+}
+.left .img{
+    display: block;
+    width: 400px;
+    height: 400px;
+    border-radius: 100%;
+    margin-top: 100px;
+    margin: 0 auto;
+    margin-top: 200px;
+    margin-right: 150px;
+}
+.left{
+    width: 50%;
+    }
+.right{
+    margin-top: 300px;
+    width: 50%;
+    border-left: 5px solid black;
+}
+.right .font {
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 4px;
+}
+h1 {
+    font-size: 50px;
+}
+.info
+{
+    margin-left: 450px;
+    margin-top: 55px;
+    font-size: 40px;
+    border-bottom: 5px solid black;
+    background-color: yellow;
+}
+.Ex {
+    font-size: 40px;
+    margin-left:400px;
+    margin-top: 390px;
+}
+.contact{
+    font-size: 30px;
+    margin-top: 220px;
+    margin-left: 30px
+}
+h1{
+    font-size: 80px;
+    background-color: lightblue;
+}
+.right .des{
+    font-size: 30px;
+}
+.right .Intro{
+    margin-top: 100px;
+}
+.right .time{
+    font-size: 30px;
+}
+.right .web{
+    font-size: 30px;
+}
+h4{
+    font-size: 30px;
+}
+.right .item2{
+    margin-top: 50px;
+}
+.left .ex1{
+    text-align: center;
+    margin-left: 120px;
+    font-size: 40px;
+}
+.right .logosdt{
+    width: 60px;
+    height: 60px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.right .logofb{
+    width: 60px;
+    height: 60px;
+    margin-left: 20px
+}
+.right .logospt{
+    width: 60px;
+    height: 60px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.right .hi{
+    display: flex;
+}
